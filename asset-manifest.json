@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/landing-leon/static/css/main.f088e95e.css",
+    "main.js": "/landing-leon/static/js/main.5bd814de.js",
+    "static/media/landing.jpg": "/landing-leon/static/media/landing.24ec9aeb7fc32bdfed56.jpg",
+    "static/media/portfolio-2.jpg": "/landing-leon/static/media/portfolio-2.bd5994fd62dff3cec53c.jpg",
+    "static/media/about.jpg": "/landing-leon/static/media/about.266b02f6defdcd810958.jpg",
+    "static/media/portfolio-3.jpg": "/landing-leon/static/media/portfolio-3.63308af3b31761c87be5.jpg",
+    "static/media/services.jpg": "/landing-leon/static/media/services.fcd5e7c86ab060bca4a0.jpg",
+    "static/media/portfolio-1.jpg": "/landing-leon/static/media/portfolio-1.77c42523467d675cef53.jpg",
+    "index.html": "/landing-leon/index.html",
+    "main.f088e95e.css.map": "/landing-leon/static/css/main.f088e95e.css.map",
+    "main.5bd814de.js.map": "/landing-leon/static/js/main.5bd814de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f088e95e.css",
+    "static/js/main.5bd814de.js"
+  ]
+}
