@@ -1,0 +1,16 @@
+.features{
+    background-color: var(--second-color);
+}
+
+.icon{
+    font-size: 70px;
+    color: var(--main-color);
+    align-items: center;
+
+}
+
+.title{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}

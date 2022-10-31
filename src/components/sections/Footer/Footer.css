@@ -1,0 +1,7 @@
+.footer{
+    background-color: var(--footer-color);
+    color: white;
+}
+.footer h4 span{
+    color: var(--main-color);
+}

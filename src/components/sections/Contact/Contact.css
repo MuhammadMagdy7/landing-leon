@@ -1,0 +1,27 @@
+.contact {
+    background-color: var(--second-color);
+}
+
+.headcontact {
+    color: var(--footer-color);
+
+}
+
+.contact h2 a{
+    text-decoration: none;
+    color: var(--main-color);
+}
+.contact .text-center ul {
+    display: flex;
+    justify-content: center;
+}
+.contact .text-center ul li {
+    list-style: none;
+}
+.contact .text-center ul li a{
+    text-decoration: none;
+    color: var(--footer-color);    
+}
+.contact .text-center ul li a:hover{
+    color: var(--main-color);    
+}

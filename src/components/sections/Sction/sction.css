@@ -1,0 +1,35 @@
+.title-sction{
+    color: var(--bolder-color);
+    font-size: 150px;
+    font-weight: bolder;
+    position: relative;
+}
+.paragraph-down{
+    position: absolute;
+    left: 0;
+    transform: translate(0, 350%);
+    font-size: 20px;
+    font-weight: 600;
+    color: #545454;
+}
+
+@media (max-width : 797px) {
+    .title-sction{
+        font-size: 80px;
+    }
+    .paragraph-down{
+        transform: translate(0, 250%);
+        font-size: 15px;
+
+
+    }
+    .text-s-center{
+        text-align: center;
+    }
+    .text-s-center{
+        border-bottom: 1px solid #f6f6f6;
+
+    }
+ 
+
+}

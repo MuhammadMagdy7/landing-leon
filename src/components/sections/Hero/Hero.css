@@ -1,0 +1,18 @@
+.hero{
+    background-image: url(../../../assets/images/landing.jpg);
+    background-size: cover;
+    height: calc(100vh - 58.5px);
+    position: relative;
+}
+.hero .landing{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 370px;
+}
+
+.hero .landing h1{
+    font-weight: bold;
+    color: var(--main-color);
+}

@@ -1,0 +1,7 @@
+.portfolio{
+    background-color: var(--second-color);
+}
+
+.card{
+    border: none !important;
+}

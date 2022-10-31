@@ -1,0 +1,12 @@
+.photo-servies{
+    width: 50%;
+}
+.servies h4{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.icon-servies{
+    font-size: 40px;
+    color: var(--main-color);    
+}

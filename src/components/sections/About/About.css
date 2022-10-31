@@ -1,0 +1,30 @@
+.about .headTitle{
+    line-height: 1.8;
+}
+.about .line{
+    width: 50%;
+    opacity:100;
+    color: var(--main-color);
+    
+}
+.about p{
+    line-height: 1.7;
+}
+.aboutimg{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 60%;
+    
+}
+
+@media (max-width:767px) {
+    .aboutimg{
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        margin-bottom: 40px;
+        
+    }
+}
