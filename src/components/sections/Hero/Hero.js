@@ -8,9 +8,7 @@ const Hero = () => {
           <h1>Hello There</h1>
           <p>We are Leon - Super Creative & Minimal Agency Web Template</p>
         </div>
-
       </div>
-      
     </div>
   )
 }
